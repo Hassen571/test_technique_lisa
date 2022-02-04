@@ -1,4 +1,4 @@
-
+#include "stdio.h"
 #include "gpio_manip.h"
 
 void reset_gpios(void){
